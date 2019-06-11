@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Brandon Mc\\.nuget\\packages\\": {},
+    "C:\\Users\\Brand\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brandon Mc\\source\\repos\\SyntaxBasics\\SyntaxBasics\\SyntaxBasics.csproj",
+      "projectUniqueName": "C:\\Users\\Brand\\Source\\Repos\\CSharpTraining\\SyntaxBasics\\SyntaxBasics.csproj",
       "projectName": "SyntaxBasics",
-      "projectPath": "C:\\Users\\Brandon Mc\\source\\repos\\SyntaxBasics\\SyntaxBasics\\SyntaxBasics.csproj",
-      "packagesPath": "C:\\Users\\Brandon Mc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Brandon Mc\\source\\repos\\SyntaxBasics\\SyntaxBasics\\obj\\",
+      "projectPath": "C:\\Users\\Brand\\Source\\Repos\\CSharpTraining\\SyntaxBasics\\SyntaxBasics.csproj",
+      "packagesPath": "C:\\Users\\Brand\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Brand\\Source\\Repos\\CSharpTraining\\SyntaxBasics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Brandon Mc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Brand\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
