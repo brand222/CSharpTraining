@@ -6,16 +6,16 @@ namespace SyntaxBasics
 {
     class Conditionals
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine(isEvenNumber(3));
-            Console.WriteLine(isEvenNumber(2));
-            Console.WriteLine(isEvenNumber(14));
-            Console.WriteLine(isEvenNumber(43));
+        //static void Main(string[] args)
+        //{
+        //    Console.WriteLine(isEvenNumber(3));
+        //    Console.WriteLine(isEvenNumber(2));
+        //    Console.WriteLine(isEvenNumber(14));
+        //    Console.WriteLine(isEvenNumber(43));
 
-            Console.WriteLine(isXGreaterThanY(2, 1));
-            Console.WriteLine(isXGreaterThanY(200, 400));
-        }
+        //    Console.WriteLine(isXGreaterThanY(2, 1));
+        //    Console.WriteLine(isXGreaterThanY(200, 400));
+        //}
 
         //here we created a simple boolean method 
         //which contains a very basic conditional statement
