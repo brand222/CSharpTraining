@@ -1,0 +1,11 @@
+C:\Users\Brandon Mc\source\repos\SyntaxBasics\SyntaxBasics\bin\Release\netcoreapp2.1\SyntaxBasics.deps.json
+C:\Users\Brandon Mc\source\repos\SyntaxBasics\SyntaxBasics\bin\Release\netcoreapp2.1\SyntaxBasics.runtimeconfig.json
+C:\Users\Brandon Mc\source\repos\SyntaxBasics\SyntaxBasics\bin\Release\netcoreapp2.1\SyntaxBasics.runtimeconfig.dev.json
+C:\Users\Brandon Mc\source\repos\SyntaxBasics\SyntaxBasics\bin\Release\netcoreapp2.1\SyntaxBasics.dll
+C:\Users\Brandon Mc\source\repos\SyntaxBasics\SyntaxBasics\bin\Release\netcoreapp2.1\SyntaxBasics.pdb
+C:\Users\Brandon Mc\source\repos\SyntaxBasics\SyntaxBasics\obj\Release\netcoreapp2.1\SyntaxBasics.csprojAssemblyReference.cache
+C:\Users\Brandon Mc\source\repos\SyntaxBasics\SyntaxBasics\obj\Release\netcoreapp2.1\SyntaxBasics.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Mc\source\repos\SyntaxBasics\SyntaxBasics\obj\Release\netcoreapp2.1\SyntaxBasics.AssemblyInfoInputs.cache
+C:\Users\Brandon Mc\source\repos\SyntaxBasics\SyntaxBasics\obj\Release\netcoreapp2.1\SyntaxBasics.AssemblyInfo.cs
+C:\Users\Brandon Mc\source\repos\SyntaxBasics\SyntaxBasics\obj\Release\netcoreapp2.1\SyntaxBasics.dll
+C:\Users\Brandon Mc\source\repos\SyntaxBasics\SyntaxBasics\obj\Release\netcoreapp2.1\SyntaxBasics.pdb
