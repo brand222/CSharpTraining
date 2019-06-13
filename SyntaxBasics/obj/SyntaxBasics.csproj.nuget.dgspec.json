@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brandon Mc\\Source\\Repos\\CSharpTraining\\SyntaxBasics\\SyntaxBasics.csproj": {}
+    "C:\\Users\\Brandon Mc\\source\\repos\\CSharpTraining\\SyntaxBasics\\SyntaxBasics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brandon Mc\\Source\\Repos\\CSharpTraining\\SyntaxBasics\\SyntaxBasics.csproj": {
+    "C:\\Users\\Brandon Mc\\source\\repos\\CSharpTraining\\SyntaxBasics\\SyntaxBasics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brandon Mc\\Source\\Repos\\CSharpTraining\\SyntaxBasics\\SyntaxBasics.csproj",
+        "projectUniqueName": "C:\\Users\\Brandon Mc\\source\\repos\\CSharpTraining\\SyntaxBasics\\SyntaxBasics.csproj",
         "projectName": "SyntaxBasics",
-        "projectPath": "C:\\Users\\Brandon Mc\\Source\\Repos\\CSharpTraining\\SyntaxBasics\\SyntaxBasics.csproj",
+        "projectPath": "C:\\Users\\Brandon Mc\\source\\repos\\CSharpTraining\\SyntaxBasics\\SyntaxBasics.csproj",
         "packagesPath": "C:\\Users\\Brandon Mc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brandon Mc\\Source\\Repos\\CSharpTraining\\SyntaxBasics\\obj\\",
+        "outputPath": "C:\\Users\\Brandon Mc\\source\\repos\\CSharpTraining\\SyntaxBasics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
